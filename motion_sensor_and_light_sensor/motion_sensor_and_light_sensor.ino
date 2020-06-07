@@ -10,7 +10,6 @@
   
       - Adafruit unified sensor
       - PubSubClient
-      
 */
 
 #include <ESP8266WiFi.h>
